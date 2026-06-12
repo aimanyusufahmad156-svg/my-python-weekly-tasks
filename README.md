@@ -18,3 +18,23 @@ An exploration of a public dataset using Python to calculate fundamental statist
 * * **Basic Statistics:** Calculates the Mean, Median, Mode, and Standard Deviation for all numerical data.
   * * **Relationship Mapping:** Uses a correlation matrix (`.corr()`) to see how different columns connect and move together.
     * ### Libraries Used: * `pandas`
+   
+  * Project 4: Data exploration and visualization
+  * These project analyzes employee salary data using python , utilizing pandas and numpy for data processing
+  * I used matplotlib and seaborn for visualization
+  * Key excersises include line,scatter,histogram and box plot
+  * They were used to examine pay trends,salary distributions
+  * It also includes a complemented video demostration of the code here:
+
+https://drive.google.com/file/d/1FtRosS0dVX4jwoHsyaPkvRWMQjT0oOyx/view?usp=drivesdk
+
+   
+
+
+
+
+
+
+
+
+
